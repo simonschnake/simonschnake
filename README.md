@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon Schnake
-- 👀 I’m interested in Machine Learning / Particle Physics / Quantum Computing
+- 👀 I’m interested in Machine Learning / Particle Physics
 - 🌱 I’m currently a PhD Student at DESY (Deutsches Elektronen-Synchrotron)
 - 💞️ I’m looking to collaborate on Machine Learning for Calorimetry
 - 📫 You can reach me by mail lastname dot firstname at gmail.com
